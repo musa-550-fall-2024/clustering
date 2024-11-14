@@ -2,8 +2,8 @@
 
 # <br>Clustering in Python
 
-- [Non-spatial (incl. k-means)](https://github.com/musa-550-fall-2024/visualizingLargeDatasets/blob/main/Visualizing%20Large%20Data-Lec1.ipynb)
-- [Spatial](https://github.com/musa-550-fall-2024/visualizingLargeDatasets/blob/main/Visualizing%20Large%20Data-Lec2.ipynb)
+- [Non-spatial (incl. k-means)](https://github.com/musa-550-fall-2024/clustering/blob/main/ClusteringA.ipynb)
+- [Spatial](https://github.com/musa-550-fall-2024/clustering/blob/main/ClusteringB.ipynb)
 
 ## Recommended Readings/Videos
 
